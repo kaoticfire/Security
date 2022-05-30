@@ -1,0 +1,12 @@
+{
+    "SWITCH_USERNAME": "admin",
+    "SWITCH_TELNET_PASSWORD": "C1sc0312",
+    "SWITCH_ENABLE_PASSWORD": "C1sc0312",
+    "FTP_USERNAME": "user",
+    "FTP_PASSWORD": "password",
+    "CONFIGURATION_SERVER": "172.30.12.150",
+    "FIRMWARE_2960": "c2960-ipbase-mz.122-35.SE5.bin",
+    "FIRMWARE_3560": "c3560-ipbase-mz.122-35.SE5.bin",
+    "MIN_FLASH_REQ": "10000000",
+    "RSA_KEY_LENGTH": "2048"
+}
